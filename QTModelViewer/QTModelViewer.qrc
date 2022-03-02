@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="QtModelViewer">
+    <file>images/close.png</file>
+    <file>images/new.png</file>
+    <file>images/open.png</file>
+    <file>images/quit.png</file>
+    <file>images/save.png</file>
+    <file>images/saveAs.png</file>
+    <file>images/about.png</file>
+  </qresource>
+</RCC>

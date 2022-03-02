@@ -1,0 +1,14 @@
+option BackgroundColor 4278190080
+option ForegroundColor 4294967295
+option LightAmbientColor 4278190335
+option LightDiffuseColor 4283804415
+option LightSpecularColor 4278190335
+option IsAntiAliasing 0
+option IsGourand 0
+option IsLighting 1
+option IsShowBackFace 0
+option IsAnimation 0
+option IsVertexMode 0
+option IsWireFrameMode 0
+option IsFaceMode 0
+option IsFaceLineMode 1

@@ -1,0 +1,51 @@
+﻿生成启动时间为 2022/3/2 12:39:07。
+     1>项目“F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\QTModelViewer\QTModelViewer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\QTModelViewer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         D:\Program Files (x86)\VS2010\VC\bin\CL.exe /c /I"D:\openmesh\OpenMesh-2.4\src" /I.\GeneratedFiles /ID:\QT4.8.5\include /I.\GeneratedFiles\Debug /ID:\QT4.8.5\include\qtmain /ID:\QT4.8.5\include\QtCore /ID:\QT4.8.5\include\QtGui /I.\ /ID:\QT4.8.5\include\QtOpenGL /I..\..\..\..\..\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_CORE_LIB /D QT_GUI_LIB /D _USE_MATH_DEFINES /D NOMINMAX /D QT_DLL /D QT_OPENGL_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\QTModelViewer.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         D:\Program Files (x86)\VS2010\VC\bin\CL.exe /c /I"D:\openmesh\OpenMesh-2.4\src" /I.\GeneratedFiles /ID:\QT4.8.5\include /I.\GeneratedFiles\Debug /ID:\QT4.8.5\include\qtmain /ID:\QT4.8.5\include\QtCore /ID:\QT4.8.5\include\QtGui /I.\ /ID:\QT4.8.5\include\QtOpenGL /I..\..\..\..\..\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_CORE_LIB /D QT_GUI_LIB /D _USE_MATH_DEFINES /D NOMINMAX /D QT_DLL /D QT_OPENGL_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\QTModelViewer.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AboutForm.cpp CModelSubdivider.cpp DrawWidget.cpp GeneratedFiles\Debug\moc_AboutForm.cpp GeneratedFiles\Debug\moc_DrawWidget.cpp GeneratedFiles\Debug\moc_MainForm.cpp MainForm.cpp Option.cpp main.cpp
+         AboutForm.cpp
+         CModelSubdivider.cpp
+         DrawWidget.cpp
+         moc_AboutForm.cpp
+         moc_DrawWidget.cpp
+         moc_MainForm.cpp
+         MainForm.cpp
+         Option.cpp
+         main.cpp
+         正在生成代码...
+         D:\Program Files (x86)\VS2010\VC\bin\CL.exe /c /I"D:\openmesh\OpenMesh-2.4\src" /I.\GeneratedFiles /ID:\QT4.8.5\include /I.\GeneratedFiles\Debug /ID:\QT4.8.5\include\qtmain /ID:\QT4.8.5\include\QtCore /ID:\QT4.8.5\include\QtGui /I.\ /ID:\QT4.8.5\include\QtOpenGL /I..\..\..\..\..\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_CORE_LIB /D QT_GUI_LIB /D _USE_MATH_DEFINES /D NOMINMAX /D QT_DLL /D QT_OPENGL_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_QTModelViewer.cpp
+         qrc_QTModelViewer.cpp
+     1>d:\qt4.8.5\include\qtcore\../../src/corelib/global/qconfig.h(41): warning C4005: “QT_LARGEFILE_SUPPORT”: 宏重定义
+                 命令行参数: 参见前面的“QT_LARGEFILE_SUPPORT”定义
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\\QTModelViewer.exe" /NOLOGO /LIBPATH:"D:\openmesh\OpenMesh-2.4\lib" /LIBPATH:D:\QT4.8.5\lib D:\QT4.8.5\lib\qtmaind.lib D:\QT4.8.5\lib\QtCored4.lib D:\QT4.8.5\lib\QtGuid4.lib libOpenMeshCored.lib D:\QT4.8.5\lib\QtOpenGLd4.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\QTModelViewer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\QTModelViewer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\QTModelViewer.lib" /MACHINE:X86 Debug\QTModelViewer.res
+         Debug\AboutForm.obj
+         Debug\CModelSubdivider.obj
+         Debug\DrawWidget.obj
+         Debug\moc_AboutForm.obj
+         Debug\moc_DrawWidget.obj
+         Debug\moc_MainForm.obj
+         Debug\qrc_QTModelViewer.obj
+         Debug\main.obj
+         Debug\MainForm.obj
+         Debug\Option.obj
+         Debug\StdAfx.obj
+         LINK : 没有找到 F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\\QTModelViewer.exe 或上一个增量链接没有生成它；正在执行完全链接
+         QTModelViewer.vcxproj -> F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\QTModelViewer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\Debug\\QTModelViewer.exe;#1" /manifest Debug\QTModelViewer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\QTModelViewer.unsuccessfulbuild”。
+         正在对“Debug\QTModelViewer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\BaiduNetdiskDownload\QT.OpenMesh.VC.SampleProject\QTModelViewer\QTModelViewer\QTModelViewer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.38
